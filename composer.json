@@ -9,5 +9,7 @@
             "email": "mail@softarius.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
+
 }
