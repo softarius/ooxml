@@ -1,0 +1,13 @@
+{
+    "name": "softarius/ooxml",
+    "description": "DOCX manipulator",
+    "type": "library",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "softarius",
+            "email": "mail@softarius.ru"
+        }
+    ],
+    "require": {}
+}
