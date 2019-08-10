@@ -2,7 +2,7 @@
     "name": "softarius/ooxml",
     "description": "DOCX manipulator",
     "type": "library",
-    "license": "GNU",
+    "license": "MIT",
     "authors": [
         {
             "name": "softarius",
